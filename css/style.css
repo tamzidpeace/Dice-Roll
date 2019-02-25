@@ -1,0 +1,15 @@
+#title {
+    font-size: 5rem;
+    color: greenyellow;
+    text-align: center;
+}
+
+#players {
+    text-align: center;
+}
+
+#status {
+    text-align: center;
+    margin-top: 50px;
+    color: blue;
+}
