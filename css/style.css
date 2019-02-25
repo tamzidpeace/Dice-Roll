@@ -1,6 +1,14 @@
+body {
+    background-color: #33343D;
+}
+
+h3 {
+    color: yellow;
+}
+
 #title {
     font-size: 5rem;
-    color: greenyellow;
+    color: yellow;
     text-align: center;
 }
 
@@ -10,6 +18,21 @@
 
 #status {
     text-align: center;
-    margin-top: 50px;
-    color: blue;
+    color: yellow;
+    margin-top: 282px;
+}
+
+.player1div {
+    position: absolute;
+    height: auto;
+    width: 562px;
+    margin-left: 170px;
+}
+
+.player2div {
+    position: absolute;
+    height: auto;
+    width: 400px;
+    margin-left: 544px;
+    margin-bottom: 113px;
 }
