@@ -11,7 +11,10 @@ h3 {
     color: yellow;
     text-align: center;
 }
-
+#refresh {
+    text-align: center;
+    color: yellow;
+}
 #players {
     text-align: center;
 }
